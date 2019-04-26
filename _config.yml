@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'Frank'
+title: 'jungle'
 description: 'Frank de 技术博客'
 keyword: 'Frank, 前端, 前端开发, 前端博客, 技术博客, javascript, vue, nodejs'
-url: 'https://bangbangde.github.io' # your host
+url: 'https://awesomepeng.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -56,7 +56,7 @@ sns:
 #  weibo: '//weibo.com/lovecolcol'
 #  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
 #  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/bangbangde'
+  github: '//github.com/awesome'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
