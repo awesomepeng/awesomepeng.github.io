@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'jungle'
-description: 'Frank de 技术博客'
-keyword: 'Frank, 前端, 前端开发, 前端博客, 技术博客, javascript, vue, nodejs'
+description: 'jungle de 技术博客'
+keyword: 'jungle, 前端, 前端开发, 前端博客, 技术博客, javascript, vue, nodejs'
 url: 'https://awesomepeng.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,9 +17,9 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: 'Frank'
-nickname: 'bangbangde'
-bio: 'biu~biu~'
+author: 'jungle'
+nickname: 'jungle'
+bio: 'jungle'
 avatar: 'https://avatars0.githubusercontent.com/u/16101554?s=460&v=4'
 
 # Search
