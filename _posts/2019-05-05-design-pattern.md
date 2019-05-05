@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 模块
+title: js的设计模式
 subtitle:
 date: 2019-05-05
 tags: ['design-pattern']
